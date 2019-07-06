@@ -9,6 +9,7 @@ Class Principal {
         int Numero = nuevo.Iniciar();
 
         System.out.println ("El nuevo numero seleccionado es el siguiente: " + Numero);
+        System.out.println ("El numero seleccionado es el siguiente: " + Numero);
 
     }
 
